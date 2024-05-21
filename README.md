@@ -1,1 +1,3 @@
-### INTRO 
+### INTRODUCTION
+
+Working on the craft :)
